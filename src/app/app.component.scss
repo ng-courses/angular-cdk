@@ -1,0 +1,11 @@
+.card {
+  @apply w-96;
+  @apply h-96;
+  @apply rounded;
+  @apply shadow;
+  @apply border;
+  @apply border-gray-500;
+
+  @apply mt-9;
+  @apply ml-12;
+}
